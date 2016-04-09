@@ -1,4 +1,4 @@
-﻿namespace THPT_Kien_An
+﻿namespace THPT_Kien_An  
 {
     partial class Form1
     {

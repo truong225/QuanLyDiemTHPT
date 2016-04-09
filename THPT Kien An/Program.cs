@@ -17,6 +17,8 @@ namespace THPT_Kien_An
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            //Noob
         }
     }
 }
